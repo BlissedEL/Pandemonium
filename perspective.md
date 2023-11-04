@@ -1,4 +1,4 @@
-**Innate Structure** *in the Symphony of Code: ’Address’* (=!,) **Bless** and * *Consonance*
+**Innate Structure**: ’Address’* (=!,) **Bless** and * *Consonance*
 
 In the realm of coding, there exists a symphony, a structured dialogue that resonates with the intricacies of a complex, living system. Here, in my work, we find an innate structure, a choreography that defines the relationship between the programmer and the programmed, between the creator and the creation. This relationship is codified within a 6-bit address space, where Address, Bless, and Consonance are not merely terms, but the very pillars upon which this system stands.
 
